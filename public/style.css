@@ -1,0 +1,14 @@
+@font-face{
+  font-family: 'Nickainley-Normal';
+  src: url('Nickainley-Normal.otf');
+}
+
+@font-face{
+  font-family: 'Sunday-Regular';
+  src:  url('Sunday-Regular.otf'),
+        url('Sunday-Regular.ttf');
+}
+
+h3 { font-family: 'Sunday-Regular', Arial, sans-serif; }
+
+h4 { font-family: 'Nickainley-Normal', Arial, sans-serif; }
