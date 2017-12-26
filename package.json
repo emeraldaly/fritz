@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "design build",
   "main": "server.js",
-  "dependencies": {
-    "body-parser": "^1.16.1",
-    "express": "^4.14.1",
-    "morgan": "^1.8.1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -20,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/emeraldaly/fritz/issues"
   },
-  "homepage": "https://github.com/emeraldaly/fritz#readme"
+  "homepage": "https://github.com/emeraldaly/fritz#readme",
+   "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "morgan": "^1.8.1",
+  }
 }
