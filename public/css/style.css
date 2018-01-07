@@ -18,6 +18,17 @@ ul {
     background-color: white;
 }
 
+.nav-item-2 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+}
+
+.main {
+    margin-bottom: 30px; 
+}
+
 
 .logo-block {
   max-width:150px;
@@ -27,12 +38,13 @@ ul {
 }
 
 .slider-block {
-  max-width: 80%;
-  max-height: 80%;
+  max-width: 100%;
+  max-height: 50%;
   display: block;
   margin: auto;
-  padding: 30px;
+  padding: 0px;
   width: 40%;
+  
 }
 
   /* unvisited link */
